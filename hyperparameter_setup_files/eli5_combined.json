@@ -1,0 +1,1 @@
+[{"n_context": 100, "filter_to_take_percent": 0.3, "filter_token": 9.0, "filter_layer": 2.0, "filter_use_values": true, "filter_use_mask": false, "filter_use_last_state": true, "filter": true, "filter_passage_level": 0.0, "decoder_early_exit_thres": 0.8, "decoder_early_exit_type": "classifier"}]

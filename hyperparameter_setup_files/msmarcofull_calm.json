@@ -1,0 +1,1 @@
+[{"n_context": 100, "decoder_early_exit_thres": 0.8, "decoder_early_exit_type": "classifier"}]

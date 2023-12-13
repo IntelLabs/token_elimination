@@ -1,0 +1,1 @@
+[{"n_context": 100, "filter_to_take_percent": 0.5, "filter_token": 1.0, "filter_layer": 2.0, "filter_use_values": true, "filter_use_mask": false, "filter_use_last_state": false, "filter": true, "filter_passage_level": 0.0}]

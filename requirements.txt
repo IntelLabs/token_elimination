@@ -1,0 +1,7 @@
+numpy
+torch==1.13.1
+faiss-cpu
+transformers==4.30.0
+tensorboard
+tqdm
+pre-commit

@@ -1,7 +1,7 @@
 numpy
 torch==2.7.0
 faiss-cpu
-transformers==4.38.0
+transformers==4.48.0
 tensorboard
 tqdm
 pre-commit

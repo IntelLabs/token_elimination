@@ -5,7 +5,6 @@
 # LICENSE file in the root directory of this source tree.
 
 import json
-import parser
 import sys
 from pathlib import Path
 

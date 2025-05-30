@@ -1,7 +1,7 @@
 numpy==2.2.6
 faiss-cpu==1.11.0
 transformers[torch]==4.52.3
-torch==2.6.0
+torch==2.7.0
 tensorboard==2.19.0
 tqdm==4.67.1
 pre_commit==4.2.0

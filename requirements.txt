@@ -1,6 +1,6 @@
 numpy==2.2.6
 faiss-cpu==1.11.0
-transformers[torch]==4.52.3
+transformers[torch]==4.53.0
 torch==2.6.0
 tensorboard==2.19.0
 tqdm==4.67.1
